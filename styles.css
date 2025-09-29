@@ -23,14 +23,14 @@ a {
   margin: 10px;
   text-decoration: none;
   color: #fff;
-  background-color: #0073e6;
+  background-color: #6CADDF;
   border-radius: 6px;
   font-weight: bold;
   transition: background 0.3s ease;
 }
 
 a:hover {
-  background-color: #005bb5;
+  background-color: #4F94C9;
 }
 
 .links {
